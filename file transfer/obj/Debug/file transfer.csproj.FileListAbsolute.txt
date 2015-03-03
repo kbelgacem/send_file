@@ -1,0 +1,9 @@
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\bin\Debug\file transfer.exe
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\bin\Debug\file transfer.pdb
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\Main.resources
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\GenerateResource.read.1.tlog
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\GenerateResource.write.1.tlog
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\file transfer.exe
+D:\Tele_medcin\C# File trensfert\file transfer (last)\file transfer\file transfer\obj\Debug\file transfer.pdb
